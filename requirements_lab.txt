@@ -1,0 +1,19 @@
+# TrackEval core
+numpy
+scipy
+matplotlib
+tqdm
+tabulate
+opencv-python
+Pillow
+scikit-image
+pycocotools
+
+# Lab additions: YOLO detector + trackers
+ultralytics>=8.3.0      # YOLO detection + built-in trackers
+boxmot>=10.0.0          # bytetrack, ocsort, botsort, strongsort, deepocsort
+
+# Notebook support
+jupyter
+ipykernel
+ipywidgets

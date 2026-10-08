@@ -1,5 +1,5 @@
 .idea
-.vscode
+.vscode/launch.json
 **.pyc
 **__pycache__
 gt_data/*
@@ -12,3 +12,14 @@ data
 **/__pycache__
 .idea
 error_log.txt
+
+# Lab additions
+.venv/
+data_lab/
+data_lab.zip
+__MACOSX/
+*.pt
+*.mp4
+runs/thu_nhanh/
+*.egg-info/
+
